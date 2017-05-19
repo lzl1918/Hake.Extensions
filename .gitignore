@@ -1,0 +1,6 @@
+; remove directories
+/*
+!.gitignore
+!README.md
+
+
